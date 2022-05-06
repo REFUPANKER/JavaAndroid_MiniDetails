@@ -1,13 +1,14 @@
 ### I will update this file at when i find new things
 ---
+## for remove title bar
 ```xml
-// for remove title bar go to (...)\styles.xml 
+// go to (...)\styles.xml 
 <style name="AppTheme" parent="@android:style/Theme.NoTitleBar" />
 // detail is -> style/Theme.NoTitleBar
 ```
 ---
+## customizing objects / drawables
 ```xml
-// customizing objects
 // create xml file to -> (...) res/drawable/
 // file name needs to be lower case
 // paste this code =
