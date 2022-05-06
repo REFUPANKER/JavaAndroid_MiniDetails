@@ -6,3 +6,14 @@
 // detail is -> style/Theme.NoTitleBar
 ```
 ---
+```xml
+// customizing objects
+// create xml file to -> (...) res/drawable/
+// paste this code =
+<?xml version="1.0" encoding="UTF-8"?> 
+<shape xmlns:android="http://schemas.android.com/apk/res/android"> 
+    <solid android:color="#ffffffff"/>    
+</shape>
+// you can use this page to learn inner elements =
+##### https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5
+---
