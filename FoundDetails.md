@@ -15,8 +15,10 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"> 
     <solid android:color="#ffffffff"/>    
 </shape>
-// you can use this page to learn inner elements =
+// you can use this pages to learn inner elements =
 ```
-##### https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5
+- ##### https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5
+- ##### https://stackoverflow.com/questions/2122199/how-do-i-set-the-rounded-corner-radius-of-a-color-drawable-using-xml
 ---
+
 
