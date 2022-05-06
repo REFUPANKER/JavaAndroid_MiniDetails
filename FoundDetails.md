@@ -18,8 +18,11 @@
 </shape>
 // you can use this pages to learn inner elements =
 ```
-- ##### https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5
-- ##### https://stackoverflow.com/questions/2122199/how-do-i-set-the-rounded-corner-radius-of-a-color-drawable-using-xml
+- ##### [Page 1](https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5)
+- ##### [Page 2](https://stackoverflow.com/questions/2122199/how-do-i-set-the-rounded-corner-radius-of-a-color-drawable-using-xml)
+---
+## positioning in relative layout
+###### [Directly link](https://developer.android.com/guide/topics/ui/layout/relative)
 ---
 
 
