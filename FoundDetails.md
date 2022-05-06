@@ -16,7 +16,7 @@
     <solid android:color="#ffffffff"/>    
 </shape>
 // you can use this page to learn inner elements =
+```
 ##### https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5
----
 ---
 
