@@ -9,6 +9,7 @@
 ```xml
 // customizing objects
 // create xml file to -> (...) res/drawable/
+// file name needs to be lower case
 // paste this code =
 <?xml version="1.0" encoding="UTF-8"?> 
 <shape xmlns:android="http://schemas.android.com/apk/res/android"> 
@@ -17,3 +18,5 @@
 // you can use this page to learn inner elements =
 ##### https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5
 ---
+---
+
