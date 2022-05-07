@@ -40,7 +40,11 @@ float p =(batteryPct * 100);
 ---
 ## object get width - height
 ```java
-import android.view;
+import android.widget.*;
+import android.widget.TextView;
+import android.view.View;
+import android.view.ViewGroup.LayoutParams;
+import android.view.ViewGroup;
 
 final View view1=(View) findViewById(R.id.viewId);
 // in this solution, view1 is a guide for view2
@@ -58,7 +62,7 @@ public void run()
 }
 });
 ```
-####### links
+##### links
 [link 1](https://stackoverflow.com/questions/3591784/views-getwidth-and-getheight-returns-0)
 ---
 
