@@ -63,7 +63,7 @@ public void run()
 });
 ```
 ##### links
-[link 1](https://stackoverflow.com/questions/3591784/views-getwidth-and-getheight-returns-0)
+#### [link 1](https://stackoverflow.com/questions/3591784/views-getwidth-and-getheight-returns-0)
 ---
 
 
