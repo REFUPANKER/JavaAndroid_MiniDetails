@@ -65,6 +65,20 @@ public void run()
 ##### links
 #### [link 1](https://stackoverflow.com/questions/3591784/views-getwidth-and-getheight-returns-0)
 ---
-
+## Android Studio - Adb / Virtual device connection
+```cmd
+go to this folder (default) -> %localappdata% / android / sdk / platform-tools /
+and copy path (for example)-> C:\Users\UserName\AppData\Local\Android\Sdk\platform-tools
+open cmd and change directory to that path -> cd "C:\Users\UserName\AppData\Local\Android\Sdk\platform-tools"
+and use adb commands , example -> adb connect 127.0.0.1:5555(this is the virtual device's address)
+```
+---
+## Android Studio - Licence fix
+```cmd
+go to settings / android sdk
+change tab SDK Platforms -> SDK Tools
+download Google Play Licensing Library 
+you can also download Android SDK build Tools
+```
 
 
