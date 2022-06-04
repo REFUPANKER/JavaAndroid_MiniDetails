@@ -16,6 +16,7 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"> 
     <solid android:color="#ffffffff"/>    
 </shape>
+//usage = android:background="@drawable/ name"
 // you can use this pages to learn inner elements =
 ```
 - ##### [Page 1](https://medium.com/android-news/android-shape-drawables-tutorial-17fbece6fef5)
