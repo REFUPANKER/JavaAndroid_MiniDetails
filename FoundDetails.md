@@ -81,5 +81,12 @@ change tab SDK Platforms -> SDK Tools
 download Google Play Licensing Library 
 you can also download Android SDK build Tools
 ```
-
+### if you cant get string for condition use .equals
+```java
+String x="Hello World!";
+if(x.replace(" ","").equals("HelloWorld!")==true)
+{
+System.out.println(" HELLO ");
+}
+```
 
