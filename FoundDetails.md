@@ -90,3 +90,6 @@ System.out.println(" HELLO ");
 }
 ```
 
+## Fit UI for all devices
+    use Relative Layout Instead Other Layouts
+
